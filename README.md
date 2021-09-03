@@ -1,6 +1,5 @@
 - 👋 Oi, Eu sou @heitor-coelho
-- 👀 Eu estou interessado em ser um programador Back-end 
-- 🌱 Estou aprendendo linguagem SQL e me aprimorando com o framework Django
+- 👀 Estudante do Instituto Federal do Rio Grande do Norte no curso de Tecnologia em análise e desenholvimento de sistemas.
 - 💞️ Programador Python 
 
 
