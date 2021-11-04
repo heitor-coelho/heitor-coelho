@@ -2,7 +2,7 @@
  ### Estou construindo minha base cursando o curso de ADS no Institudo Federal do Rio Grande do Norte, E em casa me especializando na linguagem Python e no framework Django, estudando na plataforma Alura. 
 <div> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitor-coelho&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-coelho&layout=compact&theme=tokyonight&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-coelho&layout=compact&theme=tokyonight&include_all_commits=true"/>
 </div>
 
 ##
