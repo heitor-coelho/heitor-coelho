@@ -1,4 +1,4 @@
- ##  Olá, Bem-vindo ao meu repositório de Projetos. 
+ ##  Olá, Bem-vindo ao meu GitHub. 
  ### 
 <div> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitor-coelho&show_icons=true&theme=tokyonight"/>
