@@ -8,8 +8,7 @@
 ##
 
 </div>  
-    <img height="60px" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    
+    <img height="60px" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> <img height="60px" width="60px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"/> <img height="60px" width="60px" src="https://cdn.worldvectorlogo.com/logos/django-community.svg"/>
 </div>
 
 ##
