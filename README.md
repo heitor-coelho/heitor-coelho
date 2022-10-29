@@ -16,6 +16,9 @@
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  alt="icon-mysql"/>
    <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  alt="icon-docker"/>
   <img height="50px" width="50px" src="https://img.icons8.com/color/344/django.png"  alt="icon-django"/>
+  <img height="50px" width="50px" src="https://img.icons8.com/color/344/jira.png"  alt="icon-jira"/>
+  <img height="50px" width="50px" src="https://img.icons8.com/fluency/344/docker.png"  alt="icon-compose"/>
+  <img height="50px" width="50px" src="https://img.icons8.com/material/344/amazon-web-services.png"  alt="icon-aws"/>
    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="icon-python"/>
 </div>
 
