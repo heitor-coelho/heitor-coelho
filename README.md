@@ -2,8 +2,8 @@
  <p> Tenho 22 anos e
   atualmente estudo Análise e Desenvolvimento de Sistemas na Federal do Rio Grande do Norte </p>
 <div align='center'> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitor-coelho&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-coelho&layout=compact&theme=tokyonight&count_private=true"/>
 </div>
 
 ##
