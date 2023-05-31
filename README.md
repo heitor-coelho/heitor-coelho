@@ -14,7 +14,7 @@
 heitor = {
   "pronouns": "he" | "him",
   "code": ["Python", "Go", "JavaScript", "HTML", "CSS"],
-  "tools": ["Django", "Flask", "React", "Vue.js", "Bootstrap"],
+  "tools": ["Django", "Flask", "FastApi", "Postman", "DBeaver", "Jira"],
   "databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "architecture": ["RESTful", "Microservices"],
   "challenge": "I am working on building scalable web applications using Python and Go"
