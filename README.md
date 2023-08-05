@@ -13,7 +13,7 @@
 ```python
 heitor = {
   "pronouns": "he" | "him",
-  "code": ["Python", "Go", "JavaScript", "HTML", "CSS"],
+  "code": ["Python", "Go", "JavaScript"],
   "tools": ["Django", "Flask", "FastApi", "Postman", "DBeaver", "Jira"],
   "databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "architecture": ["RESTful", "Microservices"],
